@@ -1,0 +1,7 @@
+<view class="weui_footer">
+      <view>
+           <navigator url="" class="weui-footer__link">中安新闻</navigator>
+           <navigator url="" class="weui-footer__link">多谷数据</navigator>
+      </view>
+      <view class="weui-footer__text">Copyright</view>
+</view>
